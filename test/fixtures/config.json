@@ -9,7 +9,8 @@
     "size": "640x?",
     "audioBitrate": "128k",
     "audioChannels": 2,
-    "format": "mp4"
+    "format": "mp4",
+    "audio": "./test/fixtures/song.mp3"
   },
   "images": [
     "./test/fixtures/step_1.png",
